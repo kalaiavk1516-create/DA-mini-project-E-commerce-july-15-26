@@ -58,6 +58,7 @@ Relationship Type
 
 One-to-Many (1:*)
 Single Cross Filter Direction
+
 📈 DAX Measures
 Total Revenue
 Total COGS
@@ -71,6 +72,7 @@ Total Sessions
 Total Users
 New Customers
 Repeat Customers
+
 📊 Dashboard Features
 KPI Cards
 Total Revenue
@@ -92,6 +94,7 @@ Drill Down
 Cross Filtering
 Slicers
 Bookmarks
+
 📈 Key Insights
 Desktop users generated higher revenue than mobile users.
 Google Search contributed the highest website traffic.
@@ -99,21 +102,15 @@ Refund percentage was relatively low compared to total revenue.
 Profit margin remained around 37.26%.
 Revenue showed seasonal trends with peak sales during specific months.
 Average product price was approximately 48 USD.
+
 💡 Recommendations
 Improve mobile conversion rate.
 Increase investment in Google Search campaigns.
 Reduce refunds by improving product quality.
 Promote high-profit products.
 Plan marketing campaigns around seasonal sales trends.
-📷 Dashboard Preview
 
-Add your Power BI dashboard screenshots here.
 
-Example:
-
-Dashboard Overview
-Sales Analysis
-Customer Journey Analysis
 📁 Project Structure
 E-Commerce-Sales-Customer-Journey-Analysis
 │
@@ -130,6 +127,8 @@ E-Commerce-Sales-Customer-Journey-Analysis
 │
 ├── README.md
 └── LICENSE
+
+
 🎯 Conclusion
 
 This project demonstrates how Excel, Power Query, Power BI, and DAX can transform raw e-commerce data into meaningful business insights. Interactive dashboards were developed to analyze revenue, profit, customer behavior, refunds, and marketing performance, enabling stakeholders to make informed business decisions.
